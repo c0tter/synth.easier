@@ -1,4 +1,4 @@
-# list-ai-videos
+# synth.easier
 A basic Chrome extension to view all your Synthesia videos, thumbnails and URL's.
 
 ![extension](https://i.ibb.co/MV4pPKg/Screenshot-2022-12-19-181108.png)
